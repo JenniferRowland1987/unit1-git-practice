@@ -150,6 +150,9 @@ branch 'main' set up to track 'origin/main'.
 ### Step 6
 $ touch menu.txt
 $ git status
+$ git add .
+$ git commit -m 'starting a menu'
+$ git push
 
 
 ### Step 7
